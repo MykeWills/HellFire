@@ -6,7 +6,7 @@ HellFire Unity Game [First Person DOOM shooter] Unity solo project built for NSC
 ## Introduction
 HellFire is a doom inspired First person shooter with a variety of weapons based from old school shooters. fight through hell with a horde of cacodemons collecting weapons from the assault rifle up to the BFG!
 
-# Game play video
+# Game play
 https://www.youtube.com/watch?v=FvCbl4N8lAw
 
 ![image](https://static.wixstatic.com/media/0e8e62_dda89c891840458296d29997916d8c70~mv2.png)
